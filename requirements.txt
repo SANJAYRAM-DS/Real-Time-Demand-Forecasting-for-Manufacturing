@@ -99,3 +99,15 @@ python-dotenv==1.0.1
 shap==0.46.0          # Feature explainability
 lime==0.2.0.1
 conformal-prediction==0.2.4
+
+pandas
+numpy
+lightgbm
+scikit-learn
+seaborn
+matplotlib
+prefect
+streamlit
+joblib
+pytest
+pyarrow
